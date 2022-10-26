@@ -1,0 +1,22 @@
+body {
+  font-family: "Trip Sans Regular";
+}
+
+.container {
+  max-width: 1140px;
+  background: aquamarine;
+  margin: 0 auto;
+}
+
+header {
+  display: flex;
+}
+
+header img {
+  width: 200px;
+}
+
+.primary-nav {
+  display: flex;
+  gap: 15px;
+}
